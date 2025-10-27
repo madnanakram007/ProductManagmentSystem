@@ -1,0 +1,15 @@
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\bin\Debug\net8.0\ProductManagementSystem.BAL.deps.json
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\bin\Debug\net8.0\ProductManagementSystem.BAL.dll
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\bin\Debug\net8.0\ProductManagementSystem.BAL.pdb
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\bin\Debug\net8.0\ProductManagementSystem.DAL.dll
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\bin\Debug\net8.0\ProductManagementSystem.DAL.pdb
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.csproj.AssemblyReference.cache
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.AssemblyInfoInputs.cache
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.AssemblyInfo.cs
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.csproj.CoreCompileInputs.cache
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.csproj.CopyComplete
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.dll
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\refint\ProductManagementSystem.BAL.dll
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ProductManagementSystem.BAL.pdb
+C:\Users\AsianSol\source\repos\ProductManagementSystem\ProductManagementSystem.BAL\obj\Debug\net8.0\ref\ProductManagementSystem.BAL.dll
